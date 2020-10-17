@@ -1,6 +1,6 @@
 @media screen and (max-width: 768px) {
   body {
-    background: url(../img/bg.png);
+    background: url(../img/background.jpg) no-repeat fill center center fixed;
   }
   .halaman3 {
     display: none;
